@@ -5,3 +5,5 @@ Eng: In this work, the development of a website application using the Django web
 Ua: В роботі виконано розробку додатку-сайта з використанням веб-фреймворку Django для мови програмування Python та базою даних MySQL. Дана програма призначена для обліку ключів від аудиторій. В ній реалізовано отримання та повернення ключів, також історія операцій. Для  отримання та виводу даних використовується мова Python із бібліотекою Django, а для збереження та опрацювання всіх даних – MySQL та бібліотека mysqlclient.
 
 ![alt text](https://i.ibb.co/crz2bb2/1q.png)
+
+![alt text](https://i.ibb.co/qrpPSgS/2q.png)
